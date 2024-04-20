@@ -1,6 +1,6 @@
-# D/T and 1D Troubleshooting OCD instance Repo
+# System Clock Commands and Functions
 
-## Using Both Edgevana Date/Time Approach, as Well as Discord Message Approach
+## Using Date/Time Approach: Proper Order of Operations
 
 ### Beggining with seerver clock system diagnosis
 
